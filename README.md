@@ -1,5 +1,13 @@
 ![banner](https://raw.githubusercontent.com/timblais/timblais/main/images/cover2.png)
-
+Hello! I'm a Boston-based software engineer with experience in a variety of technologies including:
+ - HTML
+ - CSS
+ - Javascript
+ - React
+ - Node.js
+ - Express.js
+ - MongoDB
+ - Git
 <!--
 **timblais/timblais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
