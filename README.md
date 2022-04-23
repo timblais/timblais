@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](https://raw.githubusercontent.com/timblais/timblais/main/images/cover2.png)
 
 <!--
 **timblais/timblais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
