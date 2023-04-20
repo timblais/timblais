@@ -83,35 +83,44 @@ Git
 <h3 align="center">PROJECTS</h3>
 
 <!-- Projects Table -->
-<table align="center">
+
+<table align="center" width="100%">
 <tr>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-FLASH/CODE
-</small>
-</p>
+<th align="center" width="50%">
+<a href="https://github.com/timblais/Flash-Code" align="center">FLASH/CODE</a>
 </th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-LOL Stats
-</small>
-</p>
+<th align="center" width="50%">
+<a href="https://github.com/timblais/League-Stats" align="center">League Stats</a>
 </th>
 </tr>
 <tr>
-<td align="center">
-<a href="https://github.com/timblais/Flash-Code" align="center">Github Repo</a>
+<td align="center" width="50%">
 <p align="center"><strong>Built with:</strong> React, Node.js, Express.js, MongoDB, Tailwind CSS</p>
-<p align="center" width="300">Flash/Code is a flashcard application designed to help users learn to program. The application makes use of spaced-repetion techniques to help users study cards, and allows users to select different color themes and languages for syntax highlighting to easily study in their preferred language.</p> 
+<p align="center">Flash/Code is a flashcard application designed to help users learn to program. The application makes use of spaced-repetion techniques to help users study cards, and allows users to select different color themes and languages for syntax highlighting to easily study in their preferred language.</p> 
 </td>
-<td align="center">
-<a href="https://github.com/timblais/League-Stats" align="center">Github Repo</a>
-<p align="center" ><strong>Built with:</strong> React, Node.js, Express.js, MongoDB, Tailwind CSS</p>
-<p align="center" width="300">LOL Stats is a simple stat tracking application for League of Legends Players. The app leverages Riot Games' Developer API to aggregate player game stats, and averages specific stats from recent games to provide players with a reference for their performance in key areas.</p>
+<td align="center" width="50%">
+<p align="center"><strong>Built with:</strong> React, Node.js, Express.js, MongoDB, Tailwind CSS</p>
+<p align="center">LOL Stats is a simple stat tracking application for League of Legends Players. The app leverages Riot Games' Developer API to aggregate player game stats, and averages specific stats from recent games to provide players with a reference for their performance in key areas.</p>
+</td>
+</tr>
+<tr>
+</table>
+<table align="center" width="100%">
+<th align="center" width="50%">
+<a href="https://github.com/timblais/adoptr" align="center">Adoptr</a>
+</th>
+<th align="center" width="50%">
+<a href="https://github.com/timblais/Get-Lemons" align="center">Get Lemons</a>
+</th>
+</tr>
+<tr>
+<td align="center" width="50%">
+<p align="center"><strong>Built with:</strong> EJS, Node.js, Express.js, MongoDB, Tailwind CSS</p>
+<p align="center">Adoptr is a simple social media application designed to allow users to upload, crop, and post pictures of their pets or pets available for adoption. Users can like and comment on posts and can view their newsfeed or user profiles. </p> 
+</td>
+<td align="center" width="50%">
+<p align="center"><strong>Built with:</strong> EJS, Node.js, Express.js, MongoDB</p>
+<p align="center">Get Lemons is a retro-themed grocery planning application. Users can create grocery lists as well as create and save recipes. Users can easily add all recipe ingredients to an active grocery list to make shopping easier. </p>
 </td>
 </tr>
 </table>
@@ -120,7 +129,6 @@ LOL Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timblais&" alt="timblais" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=timblais&show_icons=true&locale=en" alt="timblais" /></p>
-
 
 
 <!--
