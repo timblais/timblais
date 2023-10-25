@@ -128,7 +128,7 @@ Git
 ---
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timblais&" alt="timblais" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=timblais&show_icons=true&locale=en" alt="timblais" /></p>
+
 
 
 <!--
